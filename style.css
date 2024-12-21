@@ -113,6 +113,8 @@ body, html {
     letter-spacing: 2.85px;
 }
 
+input { color: #fff;}
+
 [class^="input-"] {
     border: 2px solid var(--border-color);
     background-color: var(--background-color-2);
