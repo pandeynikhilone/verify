@@ -350,8 +350,7 @@ select {
 
     .svg-techFest {
         left: 22%;
-        top: 49.5%;
-        margin-bottom: 10%;
+        top: 43.5%;
         scale: 0.6;
         animation: none;
     }
@@ -383,6 +382,16 @@ select {
         left: 36%;
     }
 }
+
+@media only screen and (min-width: 320px) and (min-height: 480px) {
+    .svg-techFest {
+        position: relative;
+        margin-top: 12px;
+        scale: 0.6;
+        animation: none;
+    }
+}
+
 
 /* Medium devices (tablets) */
 @media only screen and (min-width: 601px) and (max-width: 800px) {
