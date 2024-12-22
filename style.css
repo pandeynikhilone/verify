@@ -333,6 +333,7 @@ select {
     }
 
     .navigation-bar-1 {
+        position: fixed;
         width: 100%;
     }
 
