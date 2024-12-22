@@ -386,7 +386,6 @@ select {
 @media only screen and (min-width: 320px) and (min-height: 480px) {
     .svg-techFest {
         position: relative;
-        margin-top: 12px;
         scale: 0.6;
         animation: none;
     }
