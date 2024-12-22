@@ -515,3 +515,7 @@ select {
         left: 43%;
     }
 }
+
+@media screen and (min-width: 1025px) {
+    .svg-techFest { scale: 0.9; animation: float 3s ease-in-out infinite;}
+}
