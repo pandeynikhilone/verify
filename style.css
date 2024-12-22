@@ -269,6 +269,7 @@ select {
     }
 
     .navigation-bar-1 {
+        position: fixed;
         width: 100%;
     }
 
@@ -309,14 +310,14 @@ select {
     }
 
     .svg-tool {
-        left: 43px;
+        left: 35px;
         right: 0px;
         top: 680px;
         scale: 0.6;
     }
 
     .save-btn {
-        left: 36%;
+        left: 30%;
     }
 }
 
@@ -374,14 +375,14 @@ select {
     }
 
     .svg-tool {
-        left: 40px;
+        left: 25px;
         right: 0px;
         top: 650px;
         scale: .75;
     }
 
     .save-btn {
-        left: 36%;
+        left: 30%;
     }
 }
 
