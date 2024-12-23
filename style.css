@@ -140,6 +140,7 @@ select {
     background-color: #1f2a21;
     border: 2px solid var(--border-color);
     font-family: var(--font-family-R);
+    outline: none;
 }
 
 .input-event {
