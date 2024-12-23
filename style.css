@@ -353,7 +353,7 @@ select {
 
     .svg-techFest {
         left: 22%;
-        top: 43.5%;
+        top: 43.5% !important;
         scale: 0.6;
         animation: none;
         margin-bottom: 12px;
