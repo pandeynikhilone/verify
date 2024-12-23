@@ -520,5 +520,5 @@ select {
 }
 
 @media screen and (min-width: 1025px) {
-    .svg-techFest { scale: 0.9; animation: float 3s ease-in-out infinite;}
+    .svg-techFest { scale: 0.9; animation: float 3s ease-in-out infinite;top: 16vh;}
 }
